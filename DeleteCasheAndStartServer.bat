@@ -1,7 +1,7 @@
 Echo Delete Server Cashe Files And Start The Server
 
-pushd G:\New Folder\Server JET 1.1.0
+pushd '*Drive*':\'*Root*'\'*Server Name File*'
 
-@RD /S /Q "G:\New Folder\Server JET 1.1.0\user\cache\"
+@RD /S /Q "'*Drive*':\'*Root*'\'*Server Name File*'\user\cache\"
 
 Start Server.exe
