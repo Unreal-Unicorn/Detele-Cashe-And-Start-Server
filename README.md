@@ -5,7 +5,7 @@ This file will work anywhere from your computer.
 
 To make work you will have to complete the following:
 
-Change '*Drive*' to the drive that your file is in. For example C
+Change '*Drive*' to the drive that your file is in. For example, C
 
 Change The '*Root*' to the directory that your sever file is in, for example, Users\Unreal_Unicorn\Documents\JET
 
